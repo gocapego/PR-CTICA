@@ -1,2 +1,3 @@
-Texto local. Edtmos probando como se actualiza y se commit
+Texto local. Estamos probando como se actualiza y se commit
 Modificado para GUI
+Modificado desde visual studio code
